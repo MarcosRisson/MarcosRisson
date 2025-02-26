@@ -18,9 +18,10 @@
 
 <br/>
 
-## 🚀 Minhas Skills
+<h2 align="center">🚀 Minhas Skills</h2>
 
 <p align="center">
+   
   <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript" width="120">
   <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" alt="HTML5" width="95">
   <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS" width="75">
