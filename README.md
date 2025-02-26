@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil/" target="_blank">
+  <a href="https://www.linkedin.com/in/marcosrisson/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
-  <a href="https://instagram.com/SeuUsuario" target="_blank">
+  <a href="https://www.instagram.com/marcos_riss0n/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   
@@ -42,7 +42,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueOrtega&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top languages"/>
 </div>
 
-<br/> <br/>
+<br/> 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcosRisson/MarcosRisson/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcosRisson/MarcosRisson/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarcosRisson/MarcosRisson/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
+<br/>
 
 <p align="center">
   <h2 align="center">👋 Obrigado por visitar meu perfil! Até mais!</h2>
