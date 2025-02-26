@@ -37,9 +37,9 @@
 
 <div align="center">
  <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=CaiqueOrtega&show_icons=true&theme=dark" width="400"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcosRisson&show_icons=true&theme=dark" width="400"  />
   &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueOrtega&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosRisson&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top languages"/>
 </div>
 
 <br/> 
