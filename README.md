@@ -5,29 +5,33 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/seu-perfil/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/SeuUsuario">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter">
+  
+  <a href="https://instagram.com/SeuUsuario" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail" alt="Email">
+  
+  <a href="mailto:marcospvcentino@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
+
 
 <br/>
 
 <h2 align="center">🚀 Minhas Skills</h2>
 
 <p align="center">
-   
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript" width="120">
-  <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" alt="HTML5" width="95">
-  <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS" width="75">
-  <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" alt="MySQL" width="95">
-  <img src="https://img.shields.io/badge/-PHP-333333?style=flat&logo=php" alt="PHP" width="70">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </p>
+
 
 <br/>
 
